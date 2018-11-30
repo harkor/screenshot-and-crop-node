@@ -3,7 +3,8 @@ var system = require('system');
 var page = require('webpage').create();
 var args = system.args;
 
-var url = 'http://www.charlin.be';
+var url = 'http://todomvc.com';
+
 var screenSize = [1920,1080];
 var cropCoordinates = [0, 0];
 var finalSize = [256, 256];
