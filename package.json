@@ -1,0 +1,19 @@
+{
+  "name": "screenshot-digitas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "jimp": "^0.6.0",
+    "node-server-screenshot": "^0.2.1",
+    "pageres-cli": "^4.1.0",
+    "url-to-screenshot": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
