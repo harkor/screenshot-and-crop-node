@@ -4,5 +4,5 @@ Dependencies : NPM
 
 ```
 npm install
-node server-vX.js
+./node_modules/.bin/phantomjs get-screen.js http://todomvc.com
 ```
